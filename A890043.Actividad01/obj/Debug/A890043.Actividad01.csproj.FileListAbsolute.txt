@@ -1,0 +1,7 @@
+C:\Users\maria\source\repos\CAI\A890043.Actividad01\A890043.Actividad01\A890043.Actividad01\bin\Debug\A890043.Actividad01.exe.config
+C:\Users\maria\source\repos\CAI\A890043.Actividad01\A890043.Actividad01\A890043.Actividad01\bin\Debug\A890043.Actividad01.exe
+C:\Users\maria\source\repos\CAI\A890043.Actividad01\A890043.Actividad01\A890043.Actividad01\bin\Debug\A890043.Actividad01.pdb
+C:\Users\maria\source\repos\CAI\A890043.Actividad01\A890043.Actividad01\A890043.Actividad01\obj\Debug\A890043.Actividad01.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\CAI\A890043.Actividad01\A890043.Actividad01\A890043.Actividad01\obj\Debug\A890043.Actividad01.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\CAI\A890043.Actividad01\A890043.Actividad01\A890043.Actividad01\obj\Debug\A890043.Actividad01.exe
+C:\Users\maria\source\repos\CAI\A890043.Actividad01\A890043.Actividad01\A890043.Actividad01\obj\Debug\A890043.Actividad01.pdb
